@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*sitecore
+Disallow: /*404
+Disallow: /*500
+Sitemap: https://www.cdfholding.com/cdf/sitemap.xml
+Sitemap: https://www.cdibcapitalgroup.com/cdib/sitemap.xml
+Sitemap: https://www.cdffoundation.org/cdffoundation/sitemap.xml
+Sitemap: https://www.kgibank.com.tw/kgib/sitemap.xml
+Sitemap: https://www.kgi.com.tw/kgis/sitemap.xml
+Sitemap: https://www.kgif.com.tw/kgif/sitemap.xml
+Sitemap: https://www.kgi.com.hk/kgishk/sitemap.xml
+Sitemap: https://www.kgiib.com.tw/kgiib/sitemap.xml

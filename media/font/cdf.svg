@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="cdf" horiz-adv-x="1000" >
+<font-face font-family="cdf" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="yin" unicode="&#xe800;" d="M782-78h183v-72h-965v72h438v136h-295v71h295v114h-338v70h765v-70h-344v-115h289v-70h-127c51-27 116-68 148-96z m88 353v133h-777v-133h-81v203h942v-203z m-349-353h248a1035 1035 0 0 1-145 98l51 38h-154z m-70 619c-159-13-325-27-441-36l-5 60c54 4 121 9 195 15v85h-149v55h149v74h-172v56h418v-56h-171v-74h159v-55h-159v-80c58 4 118 9 177 12z m504 40v-56h-475v56h195v83h-161v56h161v74h-179v56h444v-56h-189v-74h169v-56h-169v-83z" horiz-adv-x="965" />
+
+<glyph glyph-name="yin-bold" unicode="&#xe801;" d="M80 489h419m405 0h53v-217h-84v-45h-328v-70h277v-106h-81c27-21 54-43 70-60l-44-31h194v-110h-960v110h413v91h-271v106h271v70h-322v44h-85v218h22m104-103v-54h693v54z m403 103h351m-342-438v-91h147c-23 22-53 46-76 65l38 26z m-85 474c-161-9-332-19-454-26l-6 87c50 2 111 4 177 8v52h-132v79h132v44h-157v81h436v-81h-160v-44h145v-79h-145v-46c55 3 110 6 165 9z m500-8h-473v83h175v46h-143v78h143v45h-162v81h448v-81h-165v-45h145v-78h-145v-46h178z" horiz-adv-x="961" />
+</font>
+</defs>
+</svg>
